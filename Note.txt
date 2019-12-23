@@ -2,4 +2,6 @@ https://www.youtube.com/watch?v=lX5LZTWc4f8
 https://codepen.io/bradtraversy/pen/BvKOKp
 https://github.com/Annie-Huang/css_animated_text
 
+https://fonts.google.com/
+https://fonts.google.com/?query=charm&selection.family=Charm
 ================================================================
