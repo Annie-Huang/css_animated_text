@@ -4,4 +4,7 @@ https://github.com/Annie-Huang/css_animated_text
 
 https://fonts.google.com/
 https://fonts.google.com/?query=charm&selection.family=Charm
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip
+
 ================================================================
